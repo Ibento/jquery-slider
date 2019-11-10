@@ -25,12 +25,12 @@ https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 
 
 __Download and include latest CSS__
-```javascript
+```html
 <link rel="stylesheet" href="css/ibento-slider.css" type="text/css" />
 ```
 
 __Download and include latest JS__
-```javascript
+```html
 <script type="text/javascript" src="js/ibento-slider.min.js"></script>
 ```
 
