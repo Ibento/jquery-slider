@@ -18,8 +18,9 @@ This is a basic jQuery slider that fades between images set in your HTML. It is 
 ## Setup
 
 __Include jQuery__
-Download and include [jQuery 1.5.2](http://code.jquery.com/jquery-1.5.2.min.js) or include from CDN 
-https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
+Download and include [jQuery 1.5.2](http://code.jquery.com/jquery-1.5.2.min.js) or include from CDN:
+
+[https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js)
 
 ```html
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
@@ -48,7 +49,7 @@ jQuery(window).load(function() {
 
 __Check out my awesome example usage of Ibento Slider in the included example__
 ```html
-[Example](https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html)
+[https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html](https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html)
 ```
 
 ## Features
