@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This is a basic jQuery slider that fades between images set in your HTML. It is initialized on an element by using the  method .ibentoSlider(delay) and views the images in li-elements inside the _#mySlider#_ wrapper.
 
 ## Technologies
 * Jquery 1.5.2
@@ -48,9 +48,7 @@ jQuery(window).load(function() {
 
 __Check out my awesome example usage of Ibento Slider in the included example__
 ```html
-[https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html
-](https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html
-)
+[Example](https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html)
 ```
 
 ## Features
@@ -64,4 +62,4 @@ Project is: _finished_
 
 
 ## Contact
-Created by @oyvindbrungotdahl
+Created by Øyvind Dahl <oyvind@ibento.no>
