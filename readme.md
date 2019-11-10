@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Ibento jQuery Slider
+> This is a simple slider based on jQuery. It fades through x number of images and starts over. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -17,7 +17,13 @@ Add more general information about project. What the purpose of the project is? 
 * Jquery 1.5.2
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+
+Include css
+
+Include js
+
+Initialize slider on the slider element
+
 
 ## Code Examples
 
