@@ -2,7 +2,7 @@
   "name": "ibento-slider",
   "version": "1.0.0",
   "description": "A simple jQuery slider",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Ibento/jquery-slider/issues"
   },
-  "homepage": "https://github.com/Ibento/jquery-slider#readme"
+  "homepage": "https://github.com/Ibento/jquery-slider#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
 }
