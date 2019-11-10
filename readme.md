@@ -45,12 +45,10 @@ jQuery(window).load(function() {
 });
 ```
 
-## Code Examples
+## Example
 
 __Check out my awesome example usage of Ibento Slider in the included example__
-```html
 [https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html](https://github.com/Ibento/jquery-slider/blob/master/dist/example/index.html)
-```
 
 ## Features
 * Automatic counting of slides
