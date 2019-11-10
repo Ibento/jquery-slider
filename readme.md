@@ -25,15 +25,17 @@ https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 
 
 __Download and include latest CSS__
-                <link rel="stylesheet" href="css/ibento-slider.css" type="text/css" />
-
+```javascript
+<link rel="stylesheet" href="css/ibento-slider.css" type="text/css" />
+```
 
 __Download and include latest JS__
-                <script type="text/javascript" src="js/ibento-slider.min.js"></script>
+```javascript
+<script type="text/javascript" src="js/ibento-slider.min.js"></script>
+```
 
 
 __Initialize slider with element and slide delay on the slider element__
-
 ```javascript
 jQuery(window).load(function() {
     $('.ibento_slider').ibentoSlider(3000);
