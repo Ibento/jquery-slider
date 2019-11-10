@@ -21,7 +21,9 @@ __Include jQuery__
 Download and include [jQuery 1.5.2](http://code.jquery.com/jquery-1.5.2.min.js) or include from CDN 
 https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 
-                <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+```html
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+```
 
 
 __Download and include latest CSS__
