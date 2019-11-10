@@ -1,4 +1,5 @@
 (function($){
+
     $.fn.ibentoSlider = function(interval) {
 
         var slides;
@@ -39,5 +40,9 @@
 
 
 jQuery(window).load(function() {
-    $('.ibento_slider').ibentoSlider(2000);
+
+    $('.ibento_slider').ibentoSlider(3000);
 });
+
+
+
